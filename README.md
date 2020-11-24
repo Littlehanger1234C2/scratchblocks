@@ -129,7 +129,18 @@ Many, many thanks to the [contributors](https://github.com/tjvr/scratchblocks/gr
 
 ## 2 Baics...GO AHEAD 📄+📄 COPY IT!
 
-1. 
+1. when flag clicked
+clear
+forever
+pen down
+if <<mouse down?> and <touching [mouse-pointer v]?>> then
+switch costume to [button v]
+else
+add (x position) to [list v]
+end
+move (foo) steps
+
+turn ccw (9) degrees
 2. R:: cat
 RO:: cat list
 O::cat variables
