@@ -1344,5 +1344,19 @@ module.exports = [
     shape: "boolean",
     category: "obsolete",
   },
+  {
+    selector: "lookLike",
+    spec: "hello world",
+    inputs: ["%m.backdrop"],
+    shape: "stack",
+    category: "obsolete",
+  },
+   {
+    selector: "lookLike",
+    spec: "meow",
+    inputs: ["%m.backdrop"],
+    shape: "cat",
+    category: "obsolete",
+  },
   // TODO define
 ]
