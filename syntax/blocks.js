@@ -31,6 +31,7 @@ var overrideCategories = [
   "ev3",
   "microbit",
   "makeymakey",
+  "red",
 ]
 var overrideShapes = [
   "hat",
@@ -130,6 +131,7 @@ var unicodeIcons = {
   "@turnLeft": "↺",
   "@addInput": "▸",
   "@delInput": "◂",
+  "@<3": "❤",
 }
 
 var allLanguages = {}
