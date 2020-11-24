@@ -126,3 +126,19 @@ Many, many thanks to the [contributors](https://github.com/tjvr/scratchblocks/gr
 * Help with translation code from [joooni](http://scratch.mit.edu/users/joooni/)
 * Block translations from the [Scratch translation server](http://translate.scratch.mit.edu/)
 * Ported to node by [arve0](https://github.com/arve0)
+
+## 2 Baics...GO AHEAD 📄+📄 COPY IT!
+
+1. 
+2. R:: cat
+RO:: cat list
+O::cat variables
+OY::cat control
+Y::cat events
+G::cat operators
+T::cat extension
+B::cat motion
+P::cat looks
+PM:: cat sound
+M::cat custom
+
